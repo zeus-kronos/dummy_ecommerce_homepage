@@ -19,7 +19,8 @@ A dummy ecommerce landing page/homepage with minimalistic design.
 ## Developed with
 | Visual Studio Code |
 | HTML |
-|Javascript |
+| CSS |
+| Javascript |
 
 ## Author
 *Gabriel Dan*
