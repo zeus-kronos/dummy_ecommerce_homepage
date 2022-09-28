@@ -17,10 +17,10 @@ A dummy ecommerce landing page/homepage with minimalistic design.
 **Site link:** https://zeus-kronos.github.io/dummy_ecommerce_homepage/
 
 ## Developed with
-(Visual Studio Code)
-(HTML)
-(CSS)
-JAVASCRIPT
+![](Visual Studio Code)
+![](HTML)
+![](CSS)
+![](Javascript)
 
 ## Author
 *Gabriel Dan*
